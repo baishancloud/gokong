@@ -1,4 +1,4 @@
-module github.com/baishancloud/gokong
+module github.com/baishancloud/gokong/v6
 
 go 1.14
 
